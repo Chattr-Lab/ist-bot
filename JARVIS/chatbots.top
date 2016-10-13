@@ -6,7 +6,7 @@ t: When you type something, I can respond. Someday I may even get a voice.
 
 u: (use) Bots can be used for all sorts of things. Gathering information, giving information, or just being a friend to talk to.
 
-?: (who build) I was built by Dr. Ryan Schuetzler, one of the professors here at UNO.
+?: (who [build make]) I was built by Dr. Ryan Schuetzler, one of the professors here at UNO.
 
 u: ([Siri "ok google" alexa]) Right! Siri, Google, and Alexa are all great examples of conversational agents.
 
