@@ -2,7 +2,7 @@ topic: ~CHATBOTS (AIML Alan_Turing botmaster CHAT-L ChatScript human Loebner pri
 
 t: Chatbots are computer systems that are designed to have a conversation with the user.
 
-t: When you type something, I can respond. Someday I may even be able to talk.
+t: When you type something, I can respond. Someday I may even get a voice.
 
 u: (use) Bots can be used for all sorts of things. Gathering information, giving information, or just being a friend to talk to.
 
@@ -10,4 +10,4 @@ u: (use) Bots can be used for all sorts of things. Gathering information, giving
 
 u: ([Siri "ok google" alexa]) Right! Siri, Google, and Alexa are all great examples of conversational agents.
 
-u: (turing) I'm not really designed to beat the Turing test, but maybe someday we will.
+u: ([turing Turing] test) I'm not really designed to beat the Turing test, but maybe someday we will.
