@@ -12,4 +12,10 @@ t: Do you know any programming languages?
 
   a: (C++) C++ is cool. My program is written in C++.
 
-  a: (HTML) HTML's pretty useful.
+  a: (Javascript) I've been focused on Javascript for a while. Do you use Node.js?
+
+  a: (HTML) HTML's pretty useful. Do you like making websites?
+
+  a: (~yes) Like which ones?
+
+  a: (~no) Well, it's never too late, or too early, to learn!
