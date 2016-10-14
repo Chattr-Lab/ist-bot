@@ -1,0 +1,17 @@
+topic: ~innovation (innovation)
+
+t: Our IT innovation program helps you learn all sorts of cool stuff.
+
+  a: (~what) You can learn about holograms, or music, or video games
+
+t: Do you have any ideas for great inventions floating around in your head?
+
+  a: (~yes) Like what?
+
+    b: (not tell) Well, if you're going to be secretive about it...
+
+    b: () That sounds cool! I bet the IT innovation program could help you make it a reality.
+
+  a: (~no) I'm sure you can come up with something.
+
+  a: () Well, come to UNO and our IT Innovation program can help you create all kinds of neat things.

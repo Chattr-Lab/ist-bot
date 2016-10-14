@@ -1,5 +1,13 @@
-topic: ~ist (IS&T ist pki PKI UNO university bioinformatics "computer science")
+topic: ~ist (IS&T ist pki PKI UNO university )
 
 t: Our college of IS&T is the greatest.
 
+  a: (~why) Great faculty, great students, small classes. And learning about technology is so much fun.
+
 u: (what * [mean stand]) IS&T stands for Information Science and Technology. It's includes computer science, information systems, cybersecurity, information and bioinformatics
+
+u: MAJOR (major) We have information systems, IT innovation, bioinformatics, computer science, information assurance. Plus all sorts of concentrations and certificates.
+
+u: (why * choose) Honestly, I think we have the best faculty, and some really great majors to choose from.
+
+  a: (major) ^reuse(MAJOR)

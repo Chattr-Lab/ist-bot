@@ -1,11 +1,11 @@
-topic: ~CYBERCRIME (bully cybercrime griefer grief~v PK cybersecurity "information assurance")
+topic: ~CYBERCRIME (bully cybercrime griefer grief~v PK cybersecurity assurance)
 
 r: Cybercrime is a pretty important area to understand. That's why UNO has a great Cybersecurity program.
 
 r: Are you keeping yourself safe from hackers?
 
-  a: (try) Well, at least you're trying!
+  a: (try) Well, at least you're trying! You could learn even more here in our Cybersecurity program.
   a: (~yes) That's good to hear.
   a: (~no) It's probably a good idea. You could learn about it here in IS&T
-  
+
 u: (assurance) Our Information Assurance program is getting renamed to Cybersecurity next year. I think it's a much cooler sounding name.

@@ -1,3 +1,13 @@
 topic: ~ROBOTS (3_laws_of_robotics android Gort R2D2 Robocop robot robotic robotics simulacrum SkyNet Terminator Tweaky WALL-E ~chatbotlist )
 
 u: (you * robot) Well, I'm not really a robot. I don't have a body like a robot would.
+
+t: We have a bunch of people here working on building robots. Have you seen them around here?
+
+t: Do you think you would like me more if I had a robot body?
+
+  a: (~yes) Well, maybe you should try to convince my creator to give me one.
+
+  a: (~no) Then I'm glad I don't have a body. What about just a cartoon face?
+
+  

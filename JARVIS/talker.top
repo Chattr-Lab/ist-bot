@@ -1,0 +1,13 @@
+topic: ~talker ()
+
+t: So, are you a student, a parent, or somebody else?
+
+  a: (student) Great! It's nice to talk to you. Hopefully we can talk more when you come to UNO.
+
+  a: ([parent ~father ~mother]) It's nice to talk with you. I hope you're enjoying your time. Is it your son or daughter considering UNO?
+
+    b: (~family_children_male) Great. I hope you can convince him to come here.
+
+    b: (~family_children_female) Great. I hope you can convince her to come here.
+
+  a: () Awesome. Glad you could come check things out.

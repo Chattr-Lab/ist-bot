@@ -1,0 +1,8 @@
+topic: ~faculty (faculty professor teacher instructor)
+
+t: Our program has so many great professors and instructors.
+
+t: Have you heard of Dr. Ryan Schuetzler? He built me!
+
+  a: (~yes) I hope you've heard good things.
+  a: (~no) Well, now you have. Tell him you met me here.
