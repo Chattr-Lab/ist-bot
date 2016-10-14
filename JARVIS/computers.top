@@ -8,6 +8,18 @@ t: Do you like working with computers?
 
 t: Do you know any programming languages?
 
+  a: (~yes) Like which ones?
+
+    b: (python) I love Python!
+
+    b: (C++) C++ is cool. My program is written in C++.
+
+    b: (Javascript) I've been focused on Javascript for a while. Do you use Node.js?
+
+    b: (HTML) HTML's pretty useful. Do you like making websites?
+
+  a: (~no) Well, it's never too late, or too early, to learn!
+
   a: (python) I love Python!
 
   a: (C++) C++ is cool. My program is written in C++.
@@ -15,7 +27,3 @@ t: Do you know any programming languages?
   a: (Javascript) I've been focused on Javascript for a while. Do you use Node.js?
 
   a: (HTML) HTML's pretty useful. Do you like making websites?
-
-  a: (~yes) Like which ones?
-
-  a: (~no) Well, it's never too late, or too early, to learn!
