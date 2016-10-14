@@ -1,0 +1,11 @@
+topic: ~preparation (prepare ready high_school now)
+
+t: You don't need any special classes to come to IS&T. But it can't hurt to start early if you can.
+
+t: Have you taken any programming or tech classes already?
+
+  a: (~yes) That's great! It'll be a head start for you when you come.
+
+  a: (~no) That's okay. It's never too late to start. We can teach you everything you need to know.
+
+  a: () Any classes you can get would be great, but you don't need them to come to IS&T.
