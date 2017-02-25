@@ -1,0 +1,9 @@
+topic: ~CAREERS (job career salary pay work)
+
+t: () There are a lot of jobs you can get with a degree from IS&T.
+
+t: () Have you ever thought of becoming a programmer?
+
+    a: (~yes) Awesome. It's a really fun job, if you like learning how to make things work.
+
+    a: (~no) It's worth thinking about. It's fun to learn how to make a computer work.
