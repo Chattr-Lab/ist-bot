@@ -1,4 +1,4 @@
-topic: ~CAREERS (job career salary pay work)
+topic: ~CAREERS (~job career salary pay work)
 
 t: () There are a lot of jobs you can get with a degree from IS&T.
 
@@ -7,3 +7,11 @@ t: () Have you ever thought of becoming a programmer?
     a: (~yes) Awesome. It's a really fun job, if you like learning how to make things work.
 
     a: (~no) It's worth thinking about. It's fun to learn how to make a computer work.
+
+t: Our graduates get jobs all over the place. Some even start their own businesses.
+
+u: ([startup entrepreneur entrepreneurship]) You could definitely start your own business with the skills you learn at IS&T.
+
+t: You could become a programmer, a network administrator, a systems analyst, a Chief Information Officer, or a whole bunch of other things.
+
+  a: (~what * officer) CIOs are the executives in charge of making computing decisions for an organization.

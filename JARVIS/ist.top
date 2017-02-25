@@ -1,4 +1,4 @@
-topic: ~ist (IS&T ist pki PKI UNO university )
+topic: ~ist (IS&T ist pki PKI UNO university old)
 
 t: Our college of IS&T is the greatest.
 
@@ -11,3 +11,5 @@ u: MAJOR (major) We have information systems, IT innovation, bioinformatics, com
 u: (why * choose) Honestly, I think we have the best faculty, and some really great majors to choose from.
 
   a: (major) ^reuse(MAJOR)
+
+u: (how * old) We're celebrating our 20th anniversary as a college this year.
